@@ -4,6 +4,9 @@
 # Visual Studio (>=2015) project-specific, machine local files
 .vs/
 
+# database sqlite files
+.db
+
 # User-specific files
 *.suo
 *.user
